@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+[![MasterHead](https://res.cloudinary.com/dbnisdcll/image/upload/v1735832379/github-header-image_1_ebvhbi.png)
 <h1 align="center">Hi 👋, I'm Sarayu Reddy Donthireddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/female-developer-working-on-computer-8424419"> 		
