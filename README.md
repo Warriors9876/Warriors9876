@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/dbnisdcll/image/upload/v1735832379/github-header-image_1_ebvhbi.png)
 <h1 align="center">Hi 👋, I'm Sarayu Reddy Donthireddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dbnisdcll/image/upload/v1735839268/git_hub_yfbstn.jpg"> 		
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dbnisdcll/image/upload/v1735839689/istockphoto-1396247241-612x612_ub64dm.jpg"> 		
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warriors9876&label=Profile%20views&color=0e75b6&style=flat" alt="warriors9876" /> </p>
 
